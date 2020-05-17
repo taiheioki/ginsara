@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  },
+  "name": "ginsara",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:natrium11321/ginsara.git",
+  "author": "Taihei OKI <t.oki.natrium@gmail.com>",
+  "license": "Unlicense",
+  "private": true
+}
