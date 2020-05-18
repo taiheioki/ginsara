@@ -1,0 +1,54 @@
+.container {
+  padding: 1em;
+}
+
+h1 {
+  font-size: 200%;
+}
+
+h2 {
+  font-size: 150%;
+  margin-top: 1em;
+}
+
+table {
+  margin-bottom: 1em;
+}
+
+.mincho {
+  font-family: "Sawarabi Mincho", serif;
+}
+
+td,
+th {
+  border: 1px solid;
+  padding: 0.2em 0.4em 0.2em 0.4em;
+}
+
+th {
+  font-size: 110%;
+  text-align: center;
+}
+
+.note {
+  font-size: 80%;
+  font-weight: normal;
+}
+
+td:first-child {
+  text-align-last: justify;
+  width: 10em;
+}
+
+td:nth-child(2) {
+  text-align: right;
+}
+
+td:last-child input {
+  text-align: right;
+  width: 4.2em !important;
+}
+
+.unit {
+  width: 3.6em;
+}
